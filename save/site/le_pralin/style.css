@@ -1,0 +1,66 @@
+section
+{
+	display: inline-block;
+	border: 2px solid black;
+	font-size: x-large;
+	color: yellow;
+}
+
+body
+{
+	background-image: url("images/resto.jpg");
+	background-size: cover;
+	margin: 0;
+	color: white;
+}
+
+.titre
+{
+	border: 1px solid yellow;
+	font-size: 80px;
+	font-family: "Comic Sans MS", Georgia, sans-serif;
+	color: yellow;
+}
+
+
+#conteneur
+{
+	/*background-color: maroon;*/
+	background-image: url("images/resto.jpg");
+	background-size: cover;
+	top: 0px;
+	left: 0px;
+	display: inline-block;
+	display: flex;
+	padding: Opx;
+}
+
+nav
+{
+	width: 75%;
+	height: 75%;
+	margin: 150px;
+}
+
+.element
+{
+	background-color: maroon;
+	display: inline-block;
+	text-align: justify;
+	color: yellow;
+	font-size: xx-large;
+	font-family: "Comic Sans MS", Georgia, sans-serif;
+
+}
+
+footer
+{
+	margin-top: 120px;
+	text-align: right;
+}
+
+.commande
+{
+	color: white;
+	font-size: xx-large;
+}
